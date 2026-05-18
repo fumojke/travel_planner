@@ -16,4 +16,4 @@ app.include_router(projects_router)
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Travel Planner API!"}
+    return {"message": "Welcome to the Travel Planner API 2.0!"}
