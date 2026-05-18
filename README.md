@@ -37,6 +37,6 @@ uvicorn main:app --reload
 
 ## API Documentation
 Once the application is running, open the interactive Swagger UI documentation at:
-👉 **[http://localhost:8000/docs](http://localhost:8000/docs)**
+**[http://localhost:8000/docs](http://localhost:8000/docs)**
 
 *Note for testing endpoints:* Use valid external IDs like `129884` or `27992` to add places successfully.
