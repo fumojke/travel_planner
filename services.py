@@ -15,3 +15,4 @@ def check_place_exists(external_id: str) -> bool:
         return False
     except requests.RequestException:
         return False
+
